@@ -193,7 +193,7 @@
 
                                 Et qu’on eut sur son front fermé le souterrain,
 
-                                L’œil était dans la tombe et regardait Caïn.
+                                L’œil était dans la tombe et regardait Caïn
                                 </p>
                             </div>
                         </a>
